@@ -22,7 +22,7 @@
   "publisher" : "KharaFalcon",
   "repository": {
     "type" : "git",
-    "url" : ""
+    "url" : "https://github.com/KharaFalcon/kodingwithkhara---theme"
   },
   "keywords": [
     "autumn theme",
